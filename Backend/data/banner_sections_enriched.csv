@@ -1,0 +1,99 @@
+Section_Row_ID,Course_Code,Course_Name,Credit_Hours,Section_Number,CRN,Meeting_Days,Start_Time,End_Time,Instructor_Name,Seat_Availability,Campus
+1,CS101,Introduction to Programming,3,01,10001,Sun/Tue,15:30,17:00,Dr. Nouf Alshehri,19,PNU Main Campus
+2,CS101,Introduction to Programming,3,02,10002,Mon/Wed,15:30,16:45,Dr. Amal Alshammari,10,PNU Main Campus
+3,CS101,Introduction to Programming,3,03,10003,Sun/Mon/Wed,08:00,09:15,Dr. Reem Alharbi,18,PNU Main Campus
+4,CS101,Introduction to Programming,3,04,10004,Mon/Wed,14:00,15:15,Dr. Amal Alshammari,17,PNU Main Campus
+5,CS101,Introduction to Programming,3,05,10005,Sun/Mon/Wed,10:00,11:30,Dr. Rawan Alenezi,22,PNU Main Campus
+6,CS102,Object-Oriented Programming,3,01,10006,Mon/Wed,15:30,17:00,Dr. Huda Alzahrani,22,PNU Main Campus
+7,CS102,Object-Oriented Programming,3,02,10007,Mon/Wed,09:30,11:00,Dr. Reem Alharbi,10,PNU Main Campus
+8,CS102,Object-Oriented Programming,3,03,10008,Sun/Mon/Wed,08:00,09:30,Dr. Huda Alzahrani,43,PNU Main Campus
+9,CS102,Object-Oriented Programming,3,04,10009,Tue/Thu,08:00,09:30,Dr. Amal Alshammari,12,PNU Main Campus
+10,CS102,Object-Oriented Programming,3,05,10010,Tue/Thu,14:00,15:15,Dr. Reem Alharbi,7,PNU Main Campus
+11,CS201,Data Structures,3,01,10011,Tue/Thu,08:00,09:15,Dr. Reem Alharbi,29,PNU Main Campus
+12,CS201,Data Structures,3,02,10012,Tue/Thu,12:30,14:00,Dr. Maha Alghamdi,28,PNU Main Campus
+13,CS201,Data Structures,3,03,10013,Tue/Thu,09:30,11:00,Dr. Reem Alharbi,43,PNU Main Campus
+14,CS201,Data Structures,3,04,10014,Mon/Wed,14:00,15:15,Dr. Maha Alghamdi,34,PNU Main Campus
+15,CS201,Data Structures,3,05,10015,Sun/Mon/Wed,12:00,13:15,Dr. Huda Alzahrani,8,PNU Main Campus
+16,CS201,Data Structures,3,06,10016,Mon/Wed,08:00,09:30,Dr. Laila Almutairi,22,PNU Main Campus
+17,CS202,Database Systems,3,01,10017,Mon/Wed,14:00,15:30,Dr. Nouf Alshehri,36,PNU Main Campus
+18,CS202,Database Systems,3,02,10018,Sun/Mon/Wed,14:00,15:15,Dr. Sara Alotaibi,13,PNU Main Campus
+19,CS202,Database Systems,3,03,10019,Mon/Wed,15:30,17:00,Dr. Rawan Alenezi,32,PNU Main Campus
+20,CS202,Database Systems,3,04,10020,Sun/Mon/Wed,12:00,13:15,Dr. Maha Alghamdi,37,PNU Main Campus
+21,CS202,Database Systems,3,05,10021,Sun/Mon/Wed,08:00,09:15,Dr. Reem Alharbi,14,PNU Main Campus
+22,CS210,Software Engineering,3,01,10022,Sun/Mon/Wed,08:00,09:30,Dr. Laila Almutairi,43,PNU Main Campus
+23,CS210,Software Engineering,3,02,10023,Sun/Mon/Wed,12:00,13:15,Dr. Reem Alharbi,39,PNU Main Campus
+24,CS210,Software Engineering,3,03,10024,Tue/Thu,15:30,17:00,Dr. Reem Alharbi,23,PNU Main Campus
+25,CS210,Software Engineering,3,04,10025,Sun/Mon/Wed,10:00,11:30,Dr. Abeer Alqahtani,21,PNU Main Campus
+26,CS210,Software Engineering,3,05,10026,Mon/Wed,14:00,15:15,Dr. Sara Alotaibi,45,PNU Main Campus
+27,CS210,Software Engineering,3,06,10027,Mon/Wed,09:30,11:00,Dr. Maha Alghamdi,39,PNU Main Campus
+28,AI201,Introduction to Artificial Intelligence,3,01,10028,Sun/Tue,14:00,15:30,Dr. Rana Alsubaie,6,PNU Main Campus
+29,AI201,Introduction to Artificial Intelligence,3,02,10029,Sun/Tue,11:00,12:30,Dr. Nouf Alshehri,8,PNU Main Campus
+30,AI201,Introduction to Artificial Intelligence,3,03,10030,Mon/Wed,14:00,15:15,Dr. Reem Alharbi,36,PNU Main Campus
+31,AI201,Introduction to Artificial Intelligence,3,04,10031,Sun/Tue,14:00,15:15,Dr. Maha Alghamdi,35,PNU Main Campus
+32,AI201,Introduction to Artificial Intelligence,3,05,10032,Mon/Wed,11:00,12:30,Dr. Nouf Alshehri,39,PNU Main Campus
+33,AI201,Introduction to Artificial Intelligence,3,06,10033,Mon/Wed,15:30,17:00,Dr. Laila Almutairi,28,PNU Main Campus
+34,AI201,Introduction to Artificial Intelligence,3,07,10034,Sun/Mon/Wed,14:00,15:15,Dr. Nouf Alshehri,19,PNU Main Campus
+35,AI201,Introduction to Artificial Intelligence,3,08,10035,Sun/Tue,11:00,12:15,Dr. Rawan Alenezi,40,PNU Main Campus
+36,AI201,Introduction to Artificial Intelligence,3,09,10036,Sun/Tue,08:00,09:15,Dr. Nouf Alshehri,9,PNU Main Campus
+37,AI250,Machine Learning Fundamentals,3,01,10037,Tue/Thu,08:00,09:15,Dr. Sara Alotaibi,36,PNU Main Campus
+38,AI250,Machine Learning Fundamentals,3,02,10038,Mon/Wed,14:00,15:15,Dr. Rawan Alenezi,41,PNU Main Campus
+39,AI250,Machine Learning Fundamentals,3,03,10039,Sun/Mon/Wed,10:00,11:30,Dr. Laila Almutairi,17,PNU Main Campus
+40,AI250,Machine Learning Fundamentals,3,04,10040,Sun/Tue,08:00,09:30,Dr. Huda Alzahrani,32,PNU Main Campus
+41,AI250,Machine Learning Fundamentals,3,05,10041,Sun/Mon/Wed,14:00,15:15,Dr. Reem Alharbi,8,PNU Main Campus
+42,DS301,Data Science,3,01,10042,Tue/Thu,08:00,09:15,Dr. Nouf Alshehri,17,PNU Main Campus
+43,DS301,Data Science,3,02,10043,Sun/Mon/Wed,10:00,11:30,Dr. Maha Alghamdi,22,PNU Main Campus
+44,DS301,Data Science,3,03,10044,Sun/Mon/Wed,10:00,11:15,Dr. Rana Alsubaie,40,PNU Main Campus
+45,DS301,Data Science,3,04,10045,Sun/Tue,08:00,09:15,Dr. Reem Alharbi,20,PNU Main Campus
+46,DS301,Data Science,3,05,10046,Mon/Wed,12:30,14:00,Dr. Rana Alsubaie,18,PNU Main Campus
+47,DS301,Data Science,3,06,10047,Sun/Mon/Wed,08:00,09:15,Dr. Laila Almutairi,5,PNU Main Campus
+48,DS301,Data Science,3,07,10048,Sun/Mon/Wed,12:00,13:30,Dr. Sara Alotaibi,32,PNU Main Campus
+49,DS301,Data Science,3,08,10049,Tue/Thu,09:30,10:45,Dr. Rawan Alenezi,39,PNU Main Campus
+50,IS220,Information Systems,3,01,10050,Tue/Thu,08:00,09:15,Dr. Rawan Alenezi,35,PNU Main Campus
+51,IS220,Information Systems,3,02,10051,Mon/Wed,08:00,09:15,Dr. Maha Alghamdi,9,PNU Main Campus
+52,IS220,Information Systems,3,03,10052,Sun/Tue,15:30,16:45,Dr. Laila Almutairi,12,PNU Main Campus
+53,IS220,Information Systems,3,04,10053,Mon/Wed,14:00,15:15,Dr. Rawan Alenezi,10,PNU Main Campus
+54,IS220,Information Systems,3,05,10054,Sun/Mon/Wed,12:00,13:30,Dr. Nouf Alshehri,25,PNU Main Campus
+55,MATH101,Calculus I,4,01,10055,Tue/Thu,12:30,13:45,Dr. Sara Alotaibi,34,PNU Main Campus
+56,MATH101,Calculus I,4,02,10056,Tue/Thu,08:00,09:15,Dr. Rana Alsubaie,44,PNU Main Campus
+57,MATH101,Calculus I,4,03,10057,Sun/Tue,08:00,09:15,Dr. Amal Alshammari,21,PNU Main Campus
+58,MATH101,Calculus I,4,04,10058,Mon/Wed,11:00,12:15,Dr. Nouf Alshehri,28,PNU Main Campus
+59,MATH101,Calculus I,4,05,10059,Tue/Thu,09:30,11:00,Dr. Amal Alshammari,24,PNU Main Campus
+60,MATH101,Calculus I,4,06,10060,Sun/Tue,15:30,17:00,Dr. Reem Alharbi,13,PNU Main Campus
+61,MATH102,Discrete Mathematics,3,01,10061,Sun/Tue,08:00,09:15,Dr. Sara Alotaibi,23,PNU Main Campus
+62,MATH102,Discrete Mathematics,3,02,10062,Mon/Wed,15:30,17:00,Dr. Nouf Alshehri,45,PNU Main Campus
+63,MATH102,Discrete Mathematics,3,03,10063,Tue/Thu,14:00,15:30,Dr. Sara Alotaibi,8,PNU Main Campus
+64,MATH102,Discrete Mathematics,3,04,10064,Sun/Tue,15:30,17:00,Dr. Sara Alotaibi,7,PNU Main Campus
+65,MATH102,Discrete Mathematics,3,05,10065,Sun/Tue,11:00,12:15,Dr. Sara Alotaibi,15,PNU Main Campus
+66,MATH102,Discrete Mathematics,3,06,10066,Sun/Mon/Wed,14:00,15:15,Dr. Reem Alharbi,9,PNU Main Campus
+67,MATH102,Discrete Mathematics,3,07,10067,Mon/Wed,14:00,15:15,Dr. Huda Alzahrani,42,PNU Main Campus
+68,STAT201,Statistics for Computing,3,01,10068,Mon/Wed,12:30,13:45,Dr. Abeer Alqahtani,24,PNU Main Campus
+69,STAT201,Statistics for Computing,3,02,10069,Tue/Thu,08:00,09:30,Dr. Nouf Alshehri,20,PNU Main Campus
+70,STAT201,Statistics for Computing,3,03,10070,Sun/Tue,11:00,12:30,Dr. Rawan Alenezi,14,PNU Main Campus
+71,STAT201,Statistics for Computing,3,04,10071,Mon/Wed,09:30,10:45,Dr. Laila Almutairi,6,PNU Main Campus
+72,STAT201,Statistics for Computing,3,05,10072,Mon/Wed,15:30,17:00,Dr. Laila Almutairi,20,PNU Main Campus
+73,STAT201,Statistics for Computing,3,06,10073,Tue/Thu,09:30,10:45,Dr. Laila Almutairi,7,PNU Main Campus
+74,STAT201,Statistics for Computing,3,07,10074,Sun/Mon/Wed,10:00,11:15,Dr. Rana Alsubaie,27,PNU Main Campus
+75,STAT201,Statistics for Computing,3,08,10075,Sun/Tue,15:30,16:45,Dr. Laila Almutairi,26,PNU Main Campus
+76,STAT201,Statistics for Computing,3,09,10076,Tue/Thu,15:30,17:00,Dr. Amal Alshammari,26,PNU Main Campus
+77,NET310,Computer Networks,3,01,10077,Sun/Tue,11:00,12:15,Dr. Rawan Alenezi,21,PNU Main Campus
+78,NET310,Computer Networks,3,02,10078,Sun/Tue,08:00,09:30,Dr. Huda Alzahrani,25,PNU Main Campus
+79,NET310,Computer Networks,3,03,10079,Sun/Mon/Wed,08:00,09:30,Dr. Rawan Alenezi,17,PNU Main Campus
+80,NET310,Computer Networks,3,04,10080,Tue/Thu,08:00,09:30,Dr. Abeer Alqahtani,38,PNU Main Campus
+81,NET310,Computer Networks,3,05,10081,Mon/Wed,11:00,12:30,Dr. Reem Alharbi,26,PNU Main Campus
+82,SEC320,Cybersecurity Basics,3,01,10082,Tue/Thu,15:30,16:45,Dr. Sara Alotaibi,37,PNU Main Campus
+83,SEC320,Cybersecurity Basics,3,02,10083,Tue/Thu,15:30,17:00,Dr. Huda Alzahrani,30,PNU Main Campus
+84,SEC320,Cybersecurity Basics,3,03,10084,Tue/Thu,14:00,15:15,Dr. Nouf Alshehri,31,PNU Main Campus
+85,SEC320,Cybersecurity Basics,3,04,10085,Sun/Mon/Wed,10:00,11:30,Dr. Laila Almutairi,40,PNU Main Campus
+86,SEC320,Cybersecurity Basics,3,05,10086,Sun/Tue,11:00,12:30,Dr. Nouf Alshehri,32,PNU Main Campus
+87,SEC320,Cybersecurity Basics,3,06,10087,Tue/Thu,12:30,14:00,Dr. Rana Alsubaie,18,PNU Main Campus
+88,SEC320,Cybersecurity Basics,3,07,10088,Sun/Mon/Wed,10:00,11:15,Dr. Sara Alotaibi,37,PNU Main Campus
+89,SEC320,Cybersecurity Basics,3,08,10089,Tue/Thu,08:00,09:15,Dr. Sara Alotaibi,19,PNU Main Campus
+90,SEC320,Cybersecurity Basics,3,09,10090,Mon/Wed,09:30,10:45,Dr. Abeer Alqahtani,20,PNU Main Campus
+91,HCI330,Human-Computer Interaction,3,01,10091,Sun/Tue,12:30,14:00,Dr. Rawan Alenezi,17,PNU Main Campus
+92,HCI330,Human-Computer Interaction,3,02,10092,Sun/Mon/Wed,14:00,15:30,Dr. Nouf Alshehri,14,PNU Main Campus
+93,HCI330,Human-Computer Interaction,3,03,10093,Sun/Tue,08:00,09:30,Dr. Nouf Alshehri,16,PNU Main Campus
+94,HCI330,Human-Computer Interaction,3,04,10094,Sun/Mon/Wed,08:00,09:15,Dr. Reem Alharbi,34,PNU Main Campus
+95,HCI330,Human-Computer Interaction,3,05,10095,Mon/Wed,12:30,14:00,Dr. Rana Alsubaie,44,PNU Main Campus
+96,HCI330,Human-Computer Interaction,3,06,10096,Sun/Mon/Wed,14:00,15:15,Dr. Rana Alsubaie,33,PNU Main Campus
+97,HCI330,Human-Computer Interaction,3,07,10097,Tue/Thu,09:30,11:00,Dr. Amal Alshammari,36,PNU Main Campus
+98,HCI330,Human-Computer Interaction,3,08,10098,Mon/Wed,11:00,12:30,Dr. Reem Alharbi,23,PNU Main Campus
